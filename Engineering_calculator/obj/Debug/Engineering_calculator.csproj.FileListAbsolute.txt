@@ -1,0 +1,11 @@
+C:\Users\PackardBell\source\repos\Engineering_calculator\Engineering_calculator\bin\Debug\Engineering_calculator.exe.config
+C:\Users\PackardBell\source\repos\Engineering_calculator\Engineering_calculator\bin\Debug\Engineering_calculator.exe
+C:\Users\PackardBell\source\repos\Engineering_calculator\Engineering_calculator\bin\Debug\Engineering_calculator.pdb
+C:\Users\PackardBell\source\repos\Engineering_calculator\Engineering_calculator\obj\Debug\Engineering_calculator.csproj.AssemblyReference.cache
+C:\Users\PackardBell\source\repos\Engineering_calculator\Engineering_calculator\obj\Debug\Engineering_calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\PackardBell\source\repos\Engineering_calculator\Engineering_calculator\obj\Debug\Engineering_calculator.Form1.resources
+C:\Users\PackardBell\source\repos\Engineering_calculator\Engineering_calculator\obj\Debug\Engineering_calculator.Properties.Resources.resources
+C:\Users\PackardBell\source\repos\Engineering_calculator\Engineering_calculator\obj\Debug\Engineering_calculator.csproj.GenerateResource.cache
+C:\Users\PackardBell\source\repos\Engineering_calculator\Engineering_calculator\obj\Debug\Engineering_calculator.csproj.CoreCompileInputs.cache
+C:\Users\PackardBell\source\repos\Engineering_calculator\Engineering_calculator\obj\Debug\Engineering_calculator.exe
+C:\Users\PackardBell\source\repos\Engineering_calculator\Engineering_calculator\obj\Debug\Engineering_calculator.pdb
